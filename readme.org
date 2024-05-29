@@ -1,5 +1,5 @@
 * Open Incident Response Plan
 * License
-#+begin_example
+#+begin_quote
   [[https://github.com/eduardo-robles/open_irp][Open Incident Response Plan]] © 2024 by [[https://eduardorobles.com/][Eduardo Roble]]s is licensed under [[https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1][CC BY-SA 4.]]0
-#+end_example
+#+end_quote
